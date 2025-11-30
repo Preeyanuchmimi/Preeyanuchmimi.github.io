@@ -56,6 +56,7 @@ title: Preeyanuch Beawbungkerd
 ## 🏆 Certificates
 - Cisco Networking Basics
 - APNIC Academy Cybersecurity Fundamentals
+![Cybersecurity Certificate](images/143.jpg)
 
 
 ---
