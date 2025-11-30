@@ -1,4 +1,4 @@
-# Preeyanuchmimi.github.io
+# Preeyanuchmimi.github.io   ![cf](ww.jpg)
 + [Cybersecurity-Fundamentals](Cybersecurity-Fundamentals)
 + [CIDR](CIDR)
 + [backup-log](backup-log)
@@ -20,7 +20,7 @@ title: Preeyanuch Beawbungkerd
 ## 🎓 Education
 + 🎓 Bachelor of Information Technology (Year 4)
 + 🏫 Institute of Vocational Education : Central Region 5
-  ![cf](1212.png)
+  ![cf](1212.jpg)
 
 ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️
 
