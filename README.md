@@ -2,14 +2,13 @@
 + [CIDR](CIDR)
 + [backup-log](backup-log)
 + [NAT](NAT)
+
+
 ---
-title: Preeyanuch
-description: "Simple. Warm. Elegant."
+title: Preeyanuch Beawbungkerd
 ---
 
 # Preeyanuch
-
-> "Always learning, always improving." – Preeyanuch
 
 ![Welcome Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
