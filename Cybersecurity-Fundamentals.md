@@ -1,2 +1,2 @@
 Cybersecurity Fundamentals
-(images/143.jpg)
+(143.jpg)
