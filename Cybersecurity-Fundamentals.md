@@ -1,2 +1,2 @@
 Cybersecurity Fundamentals
-![Cybersecurity Certificate](images/143.jpg)
+(images/143.jpg)
