@@ -1,25 +1,28 @@
-title: Preeyanuch Beawbungkerd
-description: "Simple. Warm. Elegant."
-theme: jekyll-theme-cayman
-url: "https://Preeyanuchmimi.github.io"
-author: Nuch
+---
+title: Preeyanuch🐾
+theme: jekyll-theme-time-machine
+url: "https://mira.github.io"
+author: Mira
 sass:
   style: compressed
-  custom: "assets/css/custom.scss"
+# เพิ่ม CSS เพื่อปรับธีมสีชมพูและตกแต่งเท้าแมว
+custom_css: |
+  body {
+    background-color: #ffe6f0; /* สีพื้นชมพูอ่อน */
+    color: #800040; /* ตัวอักษรสีชมพูเข้ม */
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    color: #cc0066; /* สีหัวข้อชมพูเข้ม */
+  }
+  a {
+    color: #ff66b2; /* สีลิงก์ชมพูสดใส */
+  }
+  .cat-paw::after {
+    content: "🐾"; /* ใส่เท้าแมวหลังข้อความ */
+    margin-left: 0.3em;
+  }
+---
 
-social_links:
-  github: "https://github.com/Preeyanuchmimi"
-  linkedin: "https://www.linkedin.com/in/preeyanuch"
-  twitter: "https://twitter.com/username"
 
-menu:
-  - name: "Home"
-    link: "/"
-  - name: "About"
-    link: "/about"
-  - name: "Portfolio"
-    link: "/portfolio"
-  - name: "Contact"
-    link: "/contact"
 
-favicon: "/assets/images/favicon.ico"
