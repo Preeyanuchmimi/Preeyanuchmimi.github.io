@@ -1,30 +1,7 @@
----
-title: Preeyanuch 🐰💖
-theme: jekyll-theme-time-machine
+title: Boonmee 
+description: "Simple. Warm. Elegant."
+theme: jekyii-theme-modernist
 url: "https://mira.github.io"
 author: Mira
----
-
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  
-# 🌸 สวัสดีค่า! Preeyanuch 🐰💖  
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  
-
-ยินดีต้อนรับสู่บล็อก Bunny Pink!  
-ธีมนี้สีชมพู น่ารัก มีเท้าแมว 🐾 และตัวละครกระต่าย 🐰💖  
-
-## ตัวอย่างหัวข้อ 🐾💖
-
-- 🐾💖 การเดินทางของชีวิต  
-- 🐰🌸 เรื่องราวน่ารัก ๆ ของแมว  
-- 💌💖 เคล็ดลับการใช้ชีวิตแบบ Elegant  
-
-## ความน่ารักมินิมอล 🌸💖
-
-- 🌸 ใช้ Emoji สีชมพูแทนสีตัวอักษร  
-- 🐾 เท้าแมวเน้นหัวข้อและรายการ  
-- 🐰 ตัวละครกระต่ายทำให้ blog playful  
-- 💖 ทำให้ Markdown มีลูกเล่นโดยไม่ต้องใช้ CSS  
-
-## ลิงก์ที่น่าสนใจ 🐰💖
-
-[ไปที่ GitHub ของ Mira](https://mira.github.io)
+sass:
+  style: compressed
