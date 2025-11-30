@@ -1,7 +1,7 @@
 # Preeyanuchmimi.github.io
 + [Cybersecurity-Fundamentals
 ](Cybersecurity-Fundamentals
-)
++ [_config](_config)
 + [CIDR](CIDR)
 + [backup-log](backup-log)
 + [NAT](NAT)
