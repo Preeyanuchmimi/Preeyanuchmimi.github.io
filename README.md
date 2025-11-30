@@ -4,5 +4,5 @@ Preeyanuch Hello kaa
 +[backup-log](backup-log)
 +[NAT](NAt)
 
-<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/121.png" width="300">
+<img src="121.png" width="300">
 
