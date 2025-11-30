@@ -48,9 +48,9 @@ description: "Simple. Warm. Elegant."
 ---
 
 ## 🎨 Hobbies
-- Drawing ![🎨](https://media.giphy.com/media/3orieaBcR3ciQw8iRq/giphy.gif)
-- Traveling ![✈️](https://media.giphy.com/media/xT0GqeSlGSRQutlfI4/giphy.gif)
-- Gaming ![🎮](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+- Drawing
+- Traveling
+- Gaming
 
 ---
 
