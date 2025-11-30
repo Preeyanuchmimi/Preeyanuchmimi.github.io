@@ -2,7 +2,6 @@
 + [CIDR](CIDR)
 + [backup-log](backup-log)
 + [NAT](NAT)
-
 ---
 title: Preeyanuch
 description: "Simple. Warm. Elegant."
@@ -12,14 +11,18 @@ description: "Simple. Warm. Elegant."
 
 > "Always learning, always improving." – Preeyanuch
 
-![Welcome GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Welcome Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️
 
 ---
 
 ## 🎓 Education
-+ 🎓 Information Technology (ปี 4)
++ 🎓 Bachelor of Information Technology (Year 4)
 + 🏫 Institute of Vocational Education : Central Region 5
-![Study GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Study Cat GIF](https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif)
+
+❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️
 
 ---
 
@@ -27,21 +30,20 @@ description: "Simple. Warm. Elegant."
 
 | Skill | Level |
 |-------|-------|
-| Cybersecurity Fundamentals | Intermediate |
-| Networking Basics | Beginner |
-| Python Programming | Beginner |
-
-- [📄 Cybersecurity Fundamentals PDF](/img/Preeyanuch-Cybersecurity-Fundamentals-Cybersecurity-Fundamentals-APNIC-Academy.pdf)
+| 🎬 Video Editing | ❤️❤️❤️❤️❤️ (Excellent) |
+| 🎨 Graphic Design | ❤️❤️❤️❤️❤️ (Excellent) |
+| 📷 Photography | ❤️❤️❤️❤️❤️ (Excellent) |
 
 ---
 
-## 💼 Experience
-- Internship at ABC Company
-  - Worked on IT support and troubleshooting
-- Cybersecurity Workshop Participant
-  - Learned about network security fundamentals
+## 🏢 Current Position
+![Video Editing GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-![Work GIF](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
+1. Working at Rubber Soul Company  
+2. Position: Video Editor  
+3. Graphic Designer  
+
+❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️
 
 ---
 
@@ -55,12 +57,12 @@ description: "Simple. Warm. Elegant."
 ## 🏆 Certificates
 - Cisco Networking Basics
 - APNIC Academy Cybersecurity Fundamentals
-![Certificate GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Certificate Cat GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
 ---
 
 ## 📫 Contact
-- ✉️ Email: Nuchandsinb@gmail.com
+- ✉️ Email: Nuchandsinb@gmail.com  
 - 🌐 Facebook: [Preeyanuch Beawbungkerd](https://www.facebook.com/preeyanuch.beawbungkerd.2024/)
 
-![Thank You GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️
