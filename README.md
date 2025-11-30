@@ -20,7 +20,7 @@ title: Preeyanuch Beawbungkerd
 ## 🎓 Education
 + 🎓 Bachelor of Information Technology (Year 4)
 + 🏫 Institute of Vocational Education : Central Region 5
-! [cf](121.png)
+  ![cf](121.png)
 
 ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️
 
