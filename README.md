@@ -4,5 +4,5 @@ Preeyanuch Hello kaa
 +[backup-log](backup-log)
 +[NAT](NAt)
 
-<img src="121.png" width="300">
+
 
