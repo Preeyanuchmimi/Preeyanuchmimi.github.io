@@ -1,29 +1,7 @@
----
-title: Preeyanuch 🐾💖
-theme: jekyll-theme-time-machine
+title: Preeyanuch
+description: "Simple. Warm. Elegant."
+theme: jekyll-theme-modernist
 url: "https://mira.github.io"
 author: Mira
----
-
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  
-# 🌸 สวัสดีค่า! Preeyanuch 🐾💖  
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  
-
-ยินดีต้อนรับสู่บล็อกของ Mira!  
-ธีมนี้เรียบง่าย มินิมอล และน่ารัก 🐾💖
-
-## ตัวอย่างหัวข้อ 🐾💖
-
-- 🐾💖 การเดินทางของชีวิต
-- 🐾💖 เรื่องราวน่ารัก ๆ ของแมว
-- 🐾💖 เคล็ดลับการใช้ชีวิตแบบ Elegant
-
-## ความน่ารักมินิมอล 🌸💖
-
-- 🌸 ใช้ Emoji สีชมพูแทนสีตัวอักษร
-- 🐾 เท้าแมวเน้นหัวข้อและรายการ
-- 💖 ทำให้ Markdown มีลูกเล่นโดยไม่ต้องใช้ CSS หรือสีเข้ม
-
-## ลิงก์ที่น่าสนใจ 🐾💖
-
-[ไปที่ GitHub ของ Mira](https://mira.github.io)
+sass:
+  style: compressed
