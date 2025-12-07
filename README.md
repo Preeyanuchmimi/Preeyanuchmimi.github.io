@@ -1,5 +1,5 @@
 # Preeyanuchmimi.github.io   ![cf](ww.jpg)
-+ [Cybersecurity-Fundamentals](Cybersecurity-Fundamentals)
+
 + [CIDR](CIDR)
 + [backup-log](backup-log)
 + [NAT](NAT)
@@ -33,7 +33,7 @@ title: Preeyanuch Beawbungkerd
 | 🎬 Video Editing | ❤️❤️❤️❤️❤️ (Excellent) |
 | 🎨 Graphic Design | ❤️❤️❤️❤️❤️ (Excellent) |
 | 📷 Photography | ❤️❤️❤️❤️❤️ (Excellent) |
-
++ [Cybersecurity-Fundamentals](Cybersecurity-Fundamentals)
 ---
 
 ## 🏢 Current Position
