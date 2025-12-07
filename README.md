@@ -27,6 +27,10 @@ title: Preeyanuch Beawbungkerd
 ---
 
 ## 🧠 Skills
++ [Cybersecurity-Fundamentals](Cybersecurity-Fundamentals)
+
+
+
 
 | Skill | Level |
 |-------|-------|
@@ -35,7 +39,7 @@ title: Preeyanuch Beawbungkerd
 | 📷 Photography | ❤️❤️❤️❤️❤️ (Excellent) |
 ---
 
-+ [Cybersecurity-Fundamentals](Cybersecurity-Fundamentals)
+
 
 ## 🏢 Current Position
 
