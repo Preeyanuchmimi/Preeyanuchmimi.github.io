@@ -28,8 +28,8 @@ title: Preeyanuch Beawbungkerd
 
 ## 🧠 Skills
 + [Cybersecurity-Fundamentals](Cybersecurity-Fundamentals)
-+ [🎬 Video Editing](Video Editing)
-+ [🎨 Graphic Design](Graphic Design)
+🎬 Video Editing
+🎨 Graphic Design
 
 
 
