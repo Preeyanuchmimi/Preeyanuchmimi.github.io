@@ -9,9 +9,6 @@
   ## LAB
 + [Lab Disable Inheritance](Lab Disable Inheritance.md)
 
-
----
-title: Preeyanuch Beawbungkerd
 ---
 
 # Preeyanuch
