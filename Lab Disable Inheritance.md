@@ -1,4 +1,4 @@
-## Lab Disable Inheritance
+ ## Lab Disable Inheritance
 
 ![cf](1.png)
 
