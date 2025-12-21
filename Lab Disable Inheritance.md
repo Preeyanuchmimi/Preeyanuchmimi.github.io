@@ -13,7 +13,7 @@
 
 ---
 
-## วิธีการ
+## วิธีการ กำหนดสิทธิ์ Full Control ให้กับกลุ่ม Managers สำหรับโฟลเดอร์ D:\Personnel
 
 ---
 
@@ -34,5 +34,20 @@
 
 ### 4. คลิก Add
 ![cf](7.png)
+
+---
+
+### 5. พิมพ์ชื่อกลุ่ม Managers→ คลิก Check Names → OK
+![cf](8.png)
+
+---
+
+### 6. เลือกกลุ่ม Managers ในช่อง Permissions ให้ติ๊ก Allow – Full control
+![cf](11.png)
+
+---
+
+### 7. คลิก Apply → OK กด OK เพื่อปิดหน้าต่างทั้งหมด
+![cf](12.png)
 
 ---
