@@ -1,5 +1,6 @@
 # Preeyanuchmimi.github.io   ![cf](ww.jpg)
 
+ ## Vocabuary
 + [CIDR](CIDR)
 + [backup-log](backup-log)
 + [NAT](NAT)
