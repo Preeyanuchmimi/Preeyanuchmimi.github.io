@@ -1,13 +1,13 @@
 # Preeyanuchmimi.github.io   ![cf](ww.jpg)
 
- ## Vocabuary
+## Vocabuary
 + [CIDR](CIDR)
 + [backup-log](backup-log)
 + [NAT](NAT)
 
   ---
   
-  ## LAB
+## LAB
 + [Lab Disable Inheritance](Lab Disable Inheritance.md)
 
 ---
