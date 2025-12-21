@@ -3,6 +3,7 @@
 + [CIDR](CIDR)
 + [backup-log](backup-log)
 + [NAT](NAT)
++ [Lab Disable Inheritance](Lab Disable Inheritance.md)
 
 
 ---
