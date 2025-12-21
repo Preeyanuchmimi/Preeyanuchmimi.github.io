@@ -51,3 +51,35 @@
 ![cf](12.png)
 
 ---
+
+
+## วิธีการ Remove inherited permissions ที่โฟลเดอร์ D:\Personnel
+
+---
+
+### 1. เปิด File Explorer ไปที่ *D:* คลิกขวา โฟลเดอร์ Personnel → เลือก Properties
+![cf](13.png)
+
+---
+
+### 2. ไปที่แท็บ Security คลิกปุ่ม Advanced
+![cf](15.png)
+
+---
+
+### 3. ด้านบนจะเห็นคำว่า “Enable inheritance” (แปลว่า ตอนนี้มีการสืบทอดสิทธิ์อยู่)
+คลิกปุ่ม Disable inheritance
+![cf](16.png)
+
+---
+
+### 4. จะมีหน้าต่างถาม → เลือก Remove all inherited permissions from this object
+![cf](18.png)
+
+---
+
+
+### 5. คลิก Apply คลิก OK → OK
+![cf](19.png)
+
+---
