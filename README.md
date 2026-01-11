@@ -8,7 +8,7 @@
   ---
   
 ## LAB
-+ [Lab Disable Inheritance](Lab Disable Inheritance.md)
++ [Lab-Disable-Inheritance](Lab-Disable-Inheritance.md)
 
 ---
 
