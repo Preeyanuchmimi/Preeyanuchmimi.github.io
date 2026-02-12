@@ -44,8 +44,8 @@
 
 # 🔒 Control Security Systems
 
-- 🚪 [Rolling Door (Physical Security)](Rolling-Door.md)
-- 👆 [Fingerprint Scanner (Technical Security)](Fingerprint-Scanner.md)
+- 🚪 [Rolling Door](Rolling-Door.md)
+- 👆 [Fingerprint Scanner ](Fingerprint-Scanner.md)
 
 ---
 
