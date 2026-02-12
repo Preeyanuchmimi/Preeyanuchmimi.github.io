@@ -45,8 +45,8 @@
 
 # 🔒 Control Security Systems
 
-- 🚪 [ประตูเหล็กม้วน](Rolling-Door.md)
-- 👆 [ระบบสแกนนิ้ว](Fingerprint-Scanner.md)
+- 🚪 [Rolling-Door](Rolling-Door.md)
+- 👆 [Fingerprint-Scanner](Fingerprint-Scanner.md)
 
 ---
 
