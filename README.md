@@ -1,21 +1,19 @@
 # 🐱💖 Preeyanuch Mimi | Portfolio Website  
 ![cf](ww.jpg)
 
-<p align="center">
-  🐾 🐱💨  ~~ แมวกำลังวิ่งผ่านหน้าเว็บ ~~  🐱💨 🐾  
-</p>
+🐾 🐱💨 ~~ แมวกำลังวิ่งผ่านหน้าเว็บ ~~ 🐱💨 🐾  
 
 ---
 
 ## 🌟 Welcome to My Space
 ✨ ยินดีต้อนรับเข้าสู่โลกเล็ก ๆ ของมี่  
-ที่รวมผลงาน ความรู้ และประสบการณ์ไว้ในที่เดียว ✨  
+รวมผลงาน ความรู้ และประสบการณ์ไว้ในที่เดียว ✨  
 
 🐈💨💨💨
 
 ---
 
-# 📚 Knowledge & Vocabulary
+# 📚 Knowledge & Learning Zone
 
 ## 📖 Vocabulary
 - 🧩 [CIDR](CIDR)
@@ -23,30 +21,31 @@
 - 🌐 [NAT](NAT)
 
 ---
- ##  Cybersecurity-Fundamentals
-- 🔐 [Cybersecurity-Fundamentals](Cybersecurity-Fundamentals)
+
+## 🔐 Cybersecurity Fundamentals
+- 🛡 [Cybersecurity-Fundamentals](Cybersecurity-Fundamentals)
 
 ---
 
-## 🧪 LAB
-- 🔐 [Lab-Disable-Inheritance](Lab-Disable-Inheritance.md)
+## 🧪 LAB Practice
+- 🔑 [Lab-Disable-Inheritance](Lab-Disable-Inheritance.md)
 
 ---
 
-## 🎉 New Year 2569
-- 🎊 [New year](New year.md)
+## 🎉 Special Project
+- 🎊 [New Year 2569](New%20year.md)
 
 ---
 
-## 🛡 Security Practice
-- 💻 [xss_back_button.php](xss_back_button.php)
+## 💻 Security Practice
+- 🛡 [xss_back_button.php](xss_back_button.php)
 
 ---
 
 # 🔒 Control Security Systems
 
-- 🚪 [Rolling-Door](Rolling-Door.md)
-- 👆 [Fingerprint-Scanner](Fingerprint-Scanner.md)
+- 🚪 [Rolling Door (Physical Security)](Rolling-Door.md)
+- 👆 [Fingerprint Scanner (Technical Security)](Fingerprint-Scanner.md)
 
 ---
 
@@ -63,51 +62,45 @@
 ## 🎓 Education
 - 🎓 Bachelor of Information Technology (Year 4)  
 - 🏫 Institute of Vocational Education : Central Region 5  
-  ![cf](1212.jpg)
+![cf](1212.jpg)
 
 ---
 
 ## 🧠 Skills
-
-- 🎬 Video Editing
-- 🎨 Graphic Design
-- 🖌 Content Creation
-- 🐱💨 Fast Learner Like a Running Cat 😆
+- 🔐 Cybersecurity Basics  
+- 🎬 Video Editing  
+- 🎨 Graphic Design  
+- 🖌 Content Creation  
+- 🐱💨 Fast Learner & Creative Thinker  
 
 ---
 
 ## 🏢 Current Position
-
-- 🏢 Working at **Rubber Soul Company**
-- 🎬 Position: Video Editor
-- 🎨 Graphic Designer
+- 🏢 **Rubber Soul Company**  
+- 🎬 Video Editor  
+- 🎨 Graphic Designer  
 
 ---
 
 ## 🎨 Hobbies
-
 - 🎨 Drawing  
 - ✈️ Traveling  
 - 🎮 Gaming  
-- 🐾 เล่นกับแมว 😺  
+- 🐾 Playing with Cats 😺  
 
 ---
 
 ## 🏆 Certificates
-
 - 🖧 Cisco Networking Basics  
 - 🔐 APNIC Academy Cybersecurity Fundamentals  
 
 ---
 
 # 📫 Contact Me
-
 - ✉️ Email: **Nuchandsinb@gmail.com**  
-- 🌐 Facebook: [Preeyanuch Beawbungkerd](https://www.facebook.com/preeyanuch.beawbungkerd.2024/)  
+- 🌐 Facebook: [Preeyanuch Beawbungkerd](https://www.facebook.com/preeyanuch.beawbungkerd.2024/)
 
 ---
 
-<p align="center">
-  🐱💨  Meow Meow ~ Thanks for Visiting!  💕  
-  🐾 🐾 🐾 🐾 🐾
-</p>
+🐱💨 Meow Meow ~ Thanks for Visiting 💕  
+🐾 🐾 🐾 🐾 🐾
