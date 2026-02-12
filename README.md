@@ -23,6 +23,10 @@
 - 🌐 [NAT](NAT)
 
 ---
+ ## Cybersecurity-Fundamentals
+- 🔐 [Cybersecurity-Fundamentals](Cybersecurity-Fundamentals)
+
+---
 
 ## 🧪 LAB
 - 🔐 [Lab-Disable-Inheritance](Lab-Disable-Inheritance.md)
@@ -65,7 +69,6 @@
 
 ## 🧠 Skills
 
-- 🔐 [Cybersecurity-Fundamentals](Cybersecurity-Fundamentals)
 - 🎬 Video Editing
 - 🎨 Graphic Design
 - 🖌 Content Creation
