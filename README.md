@@ -42,7 +42,7 @@
 ---
 
 ## 🎉 Special Project
-- 🎊 [New Year 2569](New-20year.md)
+- 🎊 [New Year 2569](New-year.md)
 
 ---
 
