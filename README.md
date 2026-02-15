@@ -47,7 +47,7 @@
 ---
 
 ## 💻 การจัดการช่องโหว่
-- 🛡 [xss_back_button.php](xss-back-button.php)
+- 🛡 [xss_back_button.php](xss-back-button.php.md)
 
 ---
 
