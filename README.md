@@ -27,6 +27,15 @@
 
 ---
 
+## Gemini_Faculty
+- 🛡 [Gemini_Faculty](Gemini-Faculty)
+---
+## Gemini_Faculty
+- 🛡 [Gemini_Educator](Gemini-Educator)
+---
+## Gemini_Faculty
+- 🛡 [Gemini_University_Student](Gemini-University-Student)
+---
 ## 🧪 LAB Practice
 - 🔑 [Lab-Disable-Inheritance](Lab-Disable-Inheritance.md)
 
