@@ -37,7 +37,7 @@
 
 ---
 
-## 💻 Security Practice
+## 💻 การจัดการช่องโหว่
 - 🛡 [xss_back_button.php](xss_back_button.php)
 
 ---
