@@ -46,6 +46,11 @@
 
 ---
 
+##  PDPA
+      [PDPA](PDPA.md)
+
+---
+
 ## 💻 การจัดการช่องโหว่
 - 🛡 [xss-back-button.php](xss-back-button.php.md)
 
