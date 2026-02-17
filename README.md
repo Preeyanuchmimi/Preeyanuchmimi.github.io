@@ -44,6 +44,13 @@
 ## 🎉 Special Project
 - 🎊 [New Year 2569](New-year.md)
 
+
+---
+
+## Git-Wrapped
+- 🎉 [Git-Wrapped-2025](Git-Wrapped-2025.md)
+
+
 ---
 
 ##  PDPA
