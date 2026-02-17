@@ -6,6 +6,12 @@
 มาใช้งานโดยไม่เข้ารหัส ทำให้เสี่ยงต่อการโจมตีแบบ Reflected XSS.
 ตัวอย่าง Business Function จุดที่เกิดช่องโหว่
 
+
+
+![cf](Business-Functions.jpg)
+
+
+
 ![cf](3.1.jpg)
 
 
