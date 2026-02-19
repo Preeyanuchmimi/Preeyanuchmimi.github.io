@@ -3,7 +3,8 @@
 
 ----
 
- # Identity
+ ## Identity
+ 
  ![cf](1Identity.jpg)
  
 ตัวอย่างที่หนูใช้ในชีวิตประจำวันคือหมายถึงข้อมูลที่ใช้ระบุตัวผู้ใช้หรืออุปกรณ์
@@ -17,7 +18,7 @@
 
 ----
 
- # Devices
+ ## Devices
  
   ![cf](2Devices.jpg)
   
@@ -33,7 +34,7 @@
 
 ----
 
- # Networks
+ ## Networks
  
   ![cf](3Networks.jpg)
   
@@ -45,7 +46,7 @@
 
 ----
 
- # Data
+ ## Data
  
  ![cf](4Data.jpg)
  
@@ -56,7 +57,7 @@
 
 ----
 
- # Access
+ ## Access
  
   ![cf](4Data.jpg)
   
