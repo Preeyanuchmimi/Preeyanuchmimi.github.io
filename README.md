@@ -69,7 +69,10 @@
 - 👆 [Fingerprint Scanner ](Fingerprint-Scanner.md)
 
 ---
+# Zero Trust
+[Zero Trust](Zero-Trust.md)
 
+---
 # 👩🏻‍💻 About Me
 
 ## 🐾 Preeyanuch
