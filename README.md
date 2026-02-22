@@ -70,7 +70,7 @@
 
 ---
 # Zero Trust
-[Zero Trust](Zero-Trust.md)
+[Zero Trust](Identity-Data.md)
 
 ---
 # 👩🏻‍💻 About Me
